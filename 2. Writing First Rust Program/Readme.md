@@ -196,6 +196,6 @@ You’re now ready to explore **Cargo** — Rust’s powerful build system and p
 
 ---
 
-**Author:** Parth  
+**Author:** Parth Rewoo
 📘 *Part of my Rust Programming Course Repository*  
 🚀 *Next Chapter → Working with Cargo and Project Structure*

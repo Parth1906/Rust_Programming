@@ -211,5 +211,5 @@ You’re now ready to begin your **Rust programming journey** — next up:
 
 ---
 
-**Author:** Parth  
+**Author:** Parth Rewoo  
 📘 *Part of my Rust Programming Course Repository*
